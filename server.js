@@ -1,3 +1,5 @@
+// "node-pty": "^0.8.1",
+
 const express = require("express");
 var spawn = require("child_process").spawn;
 let app = express();
